@@ -1,5 +1,8 @@
 # Please introduce yourself!
 
+[![hackmd-github-sync-badge](https://hackmd.io/St-qOp-HTUaRHQJMmB7uzQ/badge)](https://hackmd.io/St-qOp-HTUaRHQJMmB7uzQ)
+
+
 ## Please introduce yourself and share what you hope to get out of participating in the IoT SIG
 
 Hi, I'm Damian Glover. I'm a strategy consultant working mainly in the energy, life sciences, medical device and retail sectors. 
