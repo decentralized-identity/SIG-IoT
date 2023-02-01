@@ -21,6 +21,14 @@ Hello Everyone, I am [Dr. Xinxin Fan](https://www.xinxinfan.me/). I am the Found
 
 Previously I have participated in the SSI in IoT Working Group @ Sovrin Foundation for the past few years. I am interested in the decentralized identity and access management for IoT and would like to explore how DIDs and VCs can be used to build a decentralized and trustworthy IoT systems for supporting a wide range of real-world applications. I look forward to discussing with other working group members over the coming months.   
 
+----
+
+Hi. I'm Phil Wolff. More about me on [LinkedIn](https://linkedin.com/in/philwolff/), [Wider Team](https://wider.team/team/philwolff), my occasional product management blog ([Product Hospice](https://producthospice.wordpress.com/)). I help executives and their teams make better strategic choices for a living. I have hung out with and contributed to IIW, IEEE, DIF, ToIP, and Sovrin projects, working groups, task forces, etc. 
+
+I care about what this IoT SIG does because the speed of SSI's spread in the world (which should mostly be a very good thing) is limited by how well it works in the physical world. I want better healthcare, social and economic justice, prospertiy, and a sustainable planet in my lifetime. We won't get there without all the benefits of great identity (and the things that follow). 
+
+----
+
 ## NEXT PERSON, ADD YOUR INTRO BELOW
 
 
