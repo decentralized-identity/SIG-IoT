@@ -15,7 +15,7 @@ Specifically, I am keen to explore how DIDs and VCs can enable digital twins to 
 
 I look forward to meeting you and to some great discussions over the coming months.
 
-## NEXT PERSON, ADD YOUR INTRO BELOW
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Hello Everyone, I am [Dr. Xinxin Fan](https://www.xinxinfan.me/). I am the Founding Member and Head of Cryptography at [IoTeX](https://iotex.io/), a startup empowering the future [machine economy](https://machinefi.com/) with innovative combination of blockchain and IoT. I am responsible for directing the company’s strategy and product roadmap as well as developing the core technologies and IP portfolio. Before joining IoTeX, I was a Senior Research Engineer of the Security and Privacy Group at [Bosch Research Technology Center North America](https://www.bosch.us/our-company/innovation/). I received my Ph.D. in Electrical and Computer Engineering from the [University of Waterloo](https://uwaterloo.ca/) in 2010. I am also a Certified Information Systems Security Professional (CISSP) from (ISC)<sup>2</sup> and a (co-)chair of [IEEE P2418.1](https://sagroups.ieee.org/2418-1/) and [IEEE P2958](https://sagroups.ieee.org/2958/) standards working groups.
 
